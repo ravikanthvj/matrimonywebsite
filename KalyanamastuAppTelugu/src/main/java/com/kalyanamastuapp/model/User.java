@@ -28,7 +28,7 @@ import lombok.ToString;
 @Table(name = "USERS_KMP")
 public class User {
 	
-	
+	//test
 	@Column(name = "USER_ID")
 	private String USER_ID;
 	
